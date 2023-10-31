@@ -6,7 +6,7 @@ Welcome to the MarketPlace project! This comprehensive solution is broken down i
 
 ### [MarketPlace Backend](https://github.com/SamuelOkasia/MarketPlaceBackend)
 - Description: This repository contains all backend-related code and functionalities for the MarketPlace project.
-- Technologies: [List technologies/tools/libraries used]
+- Technologies: Flask, Python, 
 
 ### [MarketPlace Frontend](#)
 - Description: This repository houses the frontend part of the project, providing a seamless UI/UX experience to the users.
