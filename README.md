@@ -1,6 +1,6 @@
 # Car Flipping Dashboard Project Overview
 
-Welcome to the Car MarketPlace Flipping Dashboard project! This comprehensive solution is broken down into multiple components, each residing in its own dedicated repository. Here's a breakdown of each:
+Welcome to the Car Marketplace Flipping Dashboard project! This comprehensive solution is broken down into multiple components, each residing in its own dedicated repository. Here's a breakdown of each:
 
 ## Repositories:
 
